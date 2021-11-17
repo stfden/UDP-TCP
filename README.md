@@ -1,5 +1,5 @@
 # git clone https://github.com/JeetX/UDP-TCP
 
-# cd TCP-UDP
+# cd UDP-TCP
 
 # python3 JetX.py
