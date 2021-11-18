@@ -4,4 +4,8 @@
 
 # python3 JetX.py
 
-![image](https://user-images.githubusercontent.com/94552389/142465080-0970735e-e5be-402f-a3ef-a040273424c3.png)
+# TCP
+![Screenshot (854)](https://user-images.githubusercontent.com/94552389/142465370-d7f063c7-9fab-4580-bbe3-41aa985dd2e6.png)
+
+# UDP
+![Screenshot (856)](https://user-images.githubusercontent.com/94552389/142465668-a0dcbb2c-5e97-4909-bc53-449cc7b45229.png)
